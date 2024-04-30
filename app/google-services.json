@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082784032030",
+    "project_id": "aroom-2a9ae",
+    "storage_bucket": "aroom-2a9ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082784032030:android:73c630b740304c90fcd50f",
+        "android_client_info": {
+          "package_name": "com.example.aroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBncUz3r9zvgE03QU_OP5TA-WBVLP0L2pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
